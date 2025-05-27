@@ -28,8 +28,8 @@ export default function Navigation() {
           <p className="text-sm font-medium">
             <i className="fas fa-exclamation-triangle mr-2"></i>
             24/7 Emergency Service Available - Call{" "}
-            <a href="tel:+26772123456" className="underline font-semibold">
-              +267 72 123 456
+            <a href="tel:+27617260367" className="underline font-semibold">
+              +27 61 726 0367
             </a>
           </p>
         </div>
@@ -103,7 +103,7 @@ export default function Navigation() {
                     variant="outline"
                     className="flex items-center justify-center space-x-2 w-full"
                   >
-                    <a href="tel:+26772123456">
+                    <a href="tel:+27617260367">
                       <Phone className="h-4 w-4" />
                       <span>Call Now</span>
                     </a>

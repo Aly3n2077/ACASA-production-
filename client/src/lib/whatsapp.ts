@@ -35,4 +35,4 @@ export function generateEmergencyMessage(): string {
   return `Hi, I have an emergency appliance repair situation. Please help!`;
 }
 
-export const WHATSAPP_PHONE = "26772123456";
+export const WHATSAPP_PHONE = "27617260367";

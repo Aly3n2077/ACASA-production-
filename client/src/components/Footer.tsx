@@ -10,8 +10,8 @@ export default function Footer() {
   ];
 
   const contactDetails = [
-    { icon: "fas fa-phone", text: "+267 72 123 456", href: "tel:+26772123456" },
-    { icon: "fas fa-envelope", text: "info@aaroncoolteck.co.za", href: "mailto:info@aaroncoolteck.co.za" },
+    { icon: "fas fa-phone", text: "+27 61 726 0367", href: "tel:+27617260367" },
+    { icon: "fas fa-envelope", text: "mabwedziva@gmail.com", href: "mailto:mabwedziva@gmail.com" },
     { icon: "fas fa-map-marker-alt", text: "Gaborone, Botswana", href: null },
     { icon: "fas fa-clock", text: "24/7 Emergency", href: null }
   ];
@@ -36,21 +36,21 @@ export default function Footer() {
             </p>
             <div className="flex items-center space-x-4">
               <a 
-                href="https://wa.me/26772123456" 
+                href="https://wa.me/27617260367" 
                 className="bg-green-500 hover:bg-green-600 p-3 rounded-lg transition-colors"
                 aria-label="WhatsApp"
               >
                 <i className="fab fa-whatsapp text-xl"></i>
               </a>
               <a 
-                href="tel:+26772123456" 
+                href="tel:+27617260367" 
                 className="bg-primary hover:bg-secondary p-3 rounded-lg transition-colors"
                 aria-label="Phone"
               >
                 <Phone className="h-5 w-5" />
               </a>
               <a 
-                href="mailto:info@aaroncoolteck.co.za" 
+                href="mailto:mabwedziva@gmail.com" 
                 className="bg-gray-700 hover:bg-gray-600 p-3 rounded-lg transition-colors"
                 aria-label="Email"
               >

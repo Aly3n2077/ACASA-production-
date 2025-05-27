@@ -16,7 +16,7 @@ export default function StickyContactBar() {
           asChild
           className="flex-1 bg-primary hover:bg-secondary text-white py-3 px-4 font-medium"
         >
-          <a href="tel:+26772123456">
+          <a href="tel:+27617260367">
             <Phone className="mr-2 h-4 w-4" />
             Call
           </a>

@@ -52,7 +52,7 @@ export default function Hero() {
                 size="lg"
                 className="bg-white/10 hover:bg-white/20 border-white/30 text-white px-8 py-4 text-lg font-semibold"
               >
-                <a href="tel:+26772123456">
+                <a href="tel:+27617260367">
                   <Phone className="mr-3" />
                   Call Now
                 </a>

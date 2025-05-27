@@ -16,7 +16,7 @@ export default function Services() {
   };
 
   const handleEmergencyCall = () => {
-    window.open('tel:+26772123456', '_self');
+    window.open('tel:+27617260367', '_self');
   };
 
   if (isLoading) {

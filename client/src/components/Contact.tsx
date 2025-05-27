@@ -96,14 +96,14 @@ export default function Contact() {
     {
       icon: Phone,
       title: "Phone",
-      content: "+267 72 123 456",
-      href: "tel:+26772123456"
+      content: "+27 61 726 0367",
+      href: "tel:+27617260367"
     },
     {
       icon: Mail,
       title: "Email",
-      content: "info@aaroncoolteck.co.za",
-      href: "mailto:info@aaroncoolteck.co.za"
+      content: "mabwedziva@gmail.com",
+      href: "mailto:mabwedziva@gmail.com"
     },
     {
       icon: MapPin,
@@ -356,7 +356,7 @@ export default function Contact() {
                   asChild
                   className="bg-white hover:bg-gray-100 text-yellow-600 font-semibold"
                 >
-                  <a href="tel:+26772123456">
+                  <a href="tel:+27617260367">
                     <Phone className="mr-2 h-4 w-4" />
                     Emergency Call
                   </a>
