@@ -43,6 +43,15 @@ export default function Footer() {
                 <i className="fab fa-whatsapp text-xl"></i>
               </a>
               <a 
+                href="https://facebook.com/AaronChingwe" 
+                className="bg-blue-600 hover:bg-blue-700 p-3 rounded-lg transition-colors"
+                aria-label="Facebook"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="fab fa-facebook text-xl"></i>
+              </a>
+              <a 
                 href="tel:+27617260367" 
                 className="bg-primary hover:bg-secondary p-3 rounded-lg transition-colors"
                 aria-label="Phone"
