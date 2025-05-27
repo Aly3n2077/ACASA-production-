@@ -144,6 +144,9 @@ export class MemStorage implements IStorage {
       ...insertInquiry, 
       id, 
       status: "pending",
+      email: insertInquiry.email || null,
+      preferredDate: insertInquiry.preferredDate || null,
+      urgency: insertInquiry.urgency || "Regular Service",
       createdAt: new Date()
     };
     this.contactInquiries.set(id, inquiry);
